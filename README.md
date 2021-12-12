@@ -3,7 +3,7 @@
 
 # Technologies I have worked with: 
 
-:trophy:&nbsp; HTML
+:trophy:&nbsp; HTML <br />
 :trophy:&nbsp; CSS
 :trophy:&nbsp; SASS
 :trophy:&nbsp; Tailwind
