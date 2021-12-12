@@ -1,8 +1,6 @@
 ## Hi, I'm Hampus 👋
 ### Front End Developer with a passion for programming and UX-design
-
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+#### :earth_africa:Webiste: [a link](https://hampusolausson.com/)
 
 #### Technologies I have worked with: 
 
