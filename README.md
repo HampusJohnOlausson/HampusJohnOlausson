@@ -3,5 +3,5 @@
 
 # Technologies I have worked with: 
 
-:trophy:HTML
+:trophy:&nbsp; HTML
 
