@@ -1,7 +1,10 @@
-### Hi, I'm Hampus 👋
-## Front End Developer with a passion for programming and UX-design
+## Hi, I'm Hampus 👋
+### Front End Developer with a passion for programming and UX-design
 
-# Technologies I have worked with: 
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+#### Technologies I have worked with: 
 
 :trophy:&nbsp; HTML <br />
 :trophy:&nbsp; CSS <br />
@@ -28,5 +31,3 @@
 :trophy:&nbsp; Adobe XD <br />
 :trophy:&nbsp; Figma <br />
 :trophy:&nbsp; Illustrator <br />
-
-
