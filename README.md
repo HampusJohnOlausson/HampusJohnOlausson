@@ -4,29 +4,29 @@
 # Technologies I have worked with: 
 
 :trophy:&nbsp; HTML <br />
-:trophy:&nbsp; CSS
-:trophy:&nbsp; SASS
-:trophy:&nbsp; Tailwind
-:trophy:&nbsp; Javascript
-:trophy:&nbsp; Typescript
-:trophy:&nbsp; React
-:trophy:&nbsp; Redux
-:trophy:&nbsp; React Storybook
-:trophy:&nbsp; React Query
-:trophy:&nbsp; Material UI
-:trophy:&nbsp; Styled Components
-:trophy:&nbsp; Node
-:trophy:&nbsp; Express.js
-:trophy:&nbsp; C#
-:trophy:&nbsp; .NET
-:trophy:&nbsp; Entity Framework
-:trophy:&nbsp; Dapper
-:trophy:&nbsp; Cypress
-:trophy:&nbsp; MySql
-:trophy:&nbsp; Mongo DB
-:trophy:&nbsp; Git
-:trophy:&nbsp; Adobe XD
-:trophy:&nbsp; Figma
-:trophy:&nbsp; Illustrator
+:trophy:&nbsp; CSS <br />
+:trophy:&nbsp; SASS <br />
+:trophy:&nbsp; Tailwind <br />
+:trophy:&nbsp; Javascript <br />
+:trophy:&nbsp; Typescript <br />
+:trophy:&nbsp; React <br />
+:trophy:&nbsp; Redux <br />
+:trophy:&nbsp; React Storybook <br />
+:trophy:&nbsp; React Query <br />
+:trophy:&nbsp; Material UI <br />
+:trophy:&nbsp; Styled Components <br />
+:trophy:&nbsp; Node <br />
+:trophy:&nbsp; Express.js <br />
+:trophy:&nbsp; C# <br />
+:trophy:&nbsp; .NET <br />
+:trophy:&nbsp; Entity Framework <br />
+:trophy:&nbsp; Dapper <br />
+:trophy:&nbsp; Cypress <br />
+:trophy:&nbsp; MySql <br />
+:trophy:&nbsp; Mongo DB <br />
+:trophy:&nbsp; Git <br />
+:trophy:&nbsp; Adobe XD <br />
+:trophy:&nbsp; Figma <br />
+:trophy:&nbsp; Illustrator <br />
 
 
