@@ -29,3 +29,5 @@
 :trophy:&nbsp; Adobe XD <br />
 :trophy:&nbsp; Figma <br />
 :trophy:&nbsp; Illustrator <br />
+:trophy:&nbsp; Trello/Jira <br />
+:trophy:&nbsp; Azure DevOps <br />
