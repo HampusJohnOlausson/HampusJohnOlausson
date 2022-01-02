@@ -4,7 +4,7 @@
 
 #### Technologies I have worked with: 
 
-#### Frontend: <br />
+#### Frontend:
 :trophy:&nbsp; HTML <br />
 :trophy:&nbsp; CSS <br />
 :trophy:&nbsp; SASS <br />
