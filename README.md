@@ -17,7 +17,7 @@
 :trophy:&nbsp; React Query <br />
 :trophy:&nbsp; Material UI <br />
 :trophy:&nbsp; Styled Components <br />
-:trophy:&nbsp; Cypress <br />
+:trophy:&nbsp; Jest <br />
 
 #### Backend:
 :trophy:&nbsp; Node <br />
