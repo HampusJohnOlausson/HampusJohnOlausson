@@ -1,6 +1,5 @@
 ## Hi, I'm Hampus 👋
 ### Front End Developer with a passion for programming and UX-design
-#### :earth_africa:&nbsp; Website:&nbsp; [hampus.olausson.com](https://hampusolausson.com/)
 
 #### Technologies I have worked with: 
 
